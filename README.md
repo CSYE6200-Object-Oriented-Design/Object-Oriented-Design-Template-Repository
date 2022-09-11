@@ -19,7 +19,7 @@
 We have enabled linting, which would ensure you need to write clean & well indented code. 
 Submissions will have deadlines, failed GitHub Actions would result in point deductions.
 
-### Reference Links:
+### References:
 1. Cloning a Repository: https://docs.github.com/en/repositories/creating-and-managing-repositories/cloning-a-repository
 2. Any GitHub Setup: Please refer to the Git & GitHub Fundamentals Repository shared to you by your respective TA and refer the README.md section
 

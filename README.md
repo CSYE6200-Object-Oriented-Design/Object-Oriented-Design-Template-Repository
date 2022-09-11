@@ -8,7 +8,7 @@
 
 ### Requirements
 1. Please have git CLI installed on your system or GitHub Desktop to commit the code in this repository
-2. Linters for Eclipse or Intellij or VSCode (As per your choise of IDE for development)
+2. Linters for Eclipse or Intellij or VSCode (As per your choice of IDE for development)
 - Eclipse - <https://marketplace.eclipse.org/category/free-tagging/linter>
 - Intellij - <https://www.jetbrains.com/help/idea/code-style-java.html>
 - VSCode - <https://code.visualstudio.com/docs/java/java-linting>

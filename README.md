@@ -1,5 +1,8 @@
-## Welcome to the course CSYE6200 - Object Oriented Design!
+## Welcome to the course CSYE6200 - Object Oriented Design! 
 > Northeastern University, College of Engineering
+
+[![Lint Code Base](https://github.com/CSYE6200-Object-Oriented-Design/Object-Oriented-Design-Template-Repository/actions/workflows/super-linter.yml/badge.svg)](https://github.com/CSYE6200-Object-Oriented-Design/Object-Oriented-Design-Template-Repository/actions/workflows/super-linter.yml)
+
 
 ### Professor: Daniel Peters
 

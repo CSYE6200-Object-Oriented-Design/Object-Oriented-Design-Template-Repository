@@ -1,12 +1,13 @@
-# CSYE 6200 - Object-Oriented-Design
-
 ## Welcome to the course CSYE6200 - Object Oriented Design!
+> Northeastern University, College of Engineering
 
 ### Professor: Daniel Peters
-### Northeastern University, College of Engineering
 
-#### Instructions: 
-Please clone the repository on your local system, add your assignment to the base repository and ensure the GitHub actions are successful.
+### Instructions: 
+1. Please clone the repository on your local system
+2. Add your assignment to the base repository with the src folder on the base path
+4. All code should be pushed to the main branch
+3. Ensure the GitHub actions are successful post push
 
 We have enabled linting, which would ensure you need to write clean & well indented code. 
 Submissions will have deadlines, failed GitHub Actions would result in point deductions.

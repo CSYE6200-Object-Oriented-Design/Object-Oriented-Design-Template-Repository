@@ -24,3 +24,5 @@ Submissions will have deadlines, failed GitHub Actions would result in point ded
 2. Any GitHub Setup: Please refer to the Git & GitHub Fundamentals Repository shared to you by your respective TA and refer the README.md section
 
 Please reach out to your respective TA if you need any help in regards with submission/ GitHub
+
+Author: Aditya Mulik (mulik.a@northeastern.edu)

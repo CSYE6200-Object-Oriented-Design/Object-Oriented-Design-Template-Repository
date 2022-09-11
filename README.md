@@ -4,7 +4,7 @@
 [![Lint Code Base](https://github.com/CSYE6200-Object-Oriented-Design/Object-Oriented-Design-Template-Repository/actions/workflows/super-linter.yml/badge.svg)](https://github.com/CSYE6200-Object-Oriented-Design/Object-Oriented-Design-Template-Repository/actions/workflows/super-linter.yml)
 
 
-### Professor: Daniel Peters
+## Professor: Daniel Peters
 
 ### Requirements
 1. Please have git CLI installed on your system or GitHub Desktop to commit the code in this repository
